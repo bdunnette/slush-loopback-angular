@@ -1,14 +1,14 @@
-slush-angular
+slush-loopback-angular
 ==============
 
 > A [slush](http://slushjs.github.io) generator for AngularJS using the [Google Angular App Structure Recommendations](https://docs.google.com/document/d/1XXMvReO8-Awi1EZXAXS4PzDzdNvV6pGcuaF4Q9821Es/pub)
 
 ## Installation
 
-Install `slush-angular` globally:
+Install `slush-loopback-angular` globally:
 
 ```bash
-npm install -g slush-angular
+npm install -g slush-loopback-angular
 ```
 
 Remember to install `slush` globally as well, if you haven't already:
@@ -115,7 +115,7 @@ Now you have a `./dist` folder with all your scripts and stylesheets concatenate
 
 ## Changelog
 
-See [releases](https://github.com/slushjs/slush-angular/releases).
+See [releases](https://github.com/slushjs/slush-loopback-angular/releases).
 
 ## License
 
